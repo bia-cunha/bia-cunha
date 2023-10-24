@@ -1,11 +1,11 @@
-<img align="right" src="https://komarev.com/ghpvc/?username=bia-cunha&color=006bed" alt="Profile visitor" />
+<img align="right" src="https://komarev.com/ghpvc/?username=bia-cunha&color=006bed" alt="Profile views"/>
 </a>
 
-<h3 align="center">
+<h1 align="center">
         <samp>&gt; Olá, eu sou a 
                 <b><a target="_blank" href="https://alsiam.com">Bianca</a></b>
         </samp>
-</h3>
+</h1>
 
 <p align="center"> 
   <samp>
@@ -16,6 +16,7 @@
 </p>
  
 <p align="center">
+
 <a href="https://www.linkedin.com/in/bianca-cunha-silva/" alt="LinkedIn">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
   
