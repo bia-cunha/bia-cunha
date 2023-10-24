@@ -4,11 +4,11 @@
 
 
 <div align= "center">
- <img height="320em" src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" min-width="400px" max-width="400px" width="400px" align="center">
+ <img height="320em" src="https://user-images.githubusercontent.com/74038190/250967618-de30015f-dc5f-4ecf-a49b-ccd2b89776e4.gif" min-width="400px" max-width="400px" width="500px" align="center">
 </div>
 
 <h1 align="center">
-  Olá, eu sou a Bianca :raising_hand:
+  Muito prazer, eu sou a Bianca :raising_hand:
 </h1>
 
 ## Sobre mim
