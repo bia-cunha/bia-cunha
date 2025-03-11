@@ -9,7 +9,7 @@
 
 <p align="center"> 
   <samp>
-        「 Estudante de Análise e Desenvolvimento de Sistemas 」
+        「 Tecnóloga em Análise e Desenvolvimento de Sistemas 」
     <br>
     <br>
   </samp>
@@ -42,7 +42,7 @@
   
 :heavy_check_mark: 👩‍💻 Explorando novas tecnologias e desenvolvendo soluções de software.
 
-:heavy_check_mark: :man_student: Estudando **Análise e Desenvolvimento de Sistemas** na <a href="https://www.usjt.br/">USJT</a>
+:heavy_check_mark: :man_student: Formanda **Análise e Desenvolvimento de Sistemas** na <a href="https://www.usjt.br/">USJT</a>
 
 :heavy_check_mark: 💼 Em busca da minha primeira vaga tech **Desenvolvedora Back-end Java Jr.** 
 
