@@ -33,8 +33,10 @@
 
 
 <div align= "center">
- <img height="320em" src="https://user-images.githubusercontent.com/74038190/250967618-de30015f-dc5f-4ecf-a49b-ccd2b89776e4.gif" min-width="400px" max-width="400px" width="500px" align="center">
+ <img height="520em" src="https://github.com/user-attachments/assets/f96bc931-5d93-4a2b-89f4-f7e938d9c20f" min-width="400px" max-width="400px" width="500px" align="center">
 </div>
+
+
 
 
 
@@ -54,8 +56,7 @@
 ### :computer: Back-End
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
 
 ### :woman_artist: Front-end
 
@@ -66,6 +67,7 @@
 
 ### :game_die: Database
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
