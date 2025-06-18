@@ -4,9 +4,9 @@
 <h1 align="center">👩‍💻 Olá! Eu sou a Bianca Cunha </h1>
 
 <p align="center">
- • 💻 Desenvolvedora em constante aprendizado  
- • 🌱 Amante de tecnologia e boas práticas  
- • 💡 Explorando o mundo do código com curiosidade e criatividade
+ - 💻 Desenvolvedora em constante aprendizado  
+ - 🌱 Amante de tecnologia e boas práticas  
+ - 💡 Explorando o mundo do código com curiosidade e criatividade
 </p>
 
 ---
@@ -38,7 +38,7 @@
 
 - 🎓 Formada em **Análise e Desenvolvimento de Sistemas**, **Administração** e **Pós-graduada em RH**
 - 🎓 Também sou **Técnica em Informática, Contabilidade e Recursos Humanos**
-- 📍 Atualmente estudando **Java com Spring Boot** e **Banco de Dados MySQL**
+- 📍  Atualmente estudando **Java com Spring Boot** e **Banco de Dados MySQL**
 - 🤝 Buscando oportunidades para aplicar meus conhecimentos técnicos e de gestão em projetos reais
 
 
