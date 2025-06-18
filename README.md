@@ -1,13 +1,14 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=bia-cunha&color=006bed" alt="Profile views"/>
 </a>
 
-<h1 align="center">👩‍💻 Olá! Eu sou a Bianca Cunha </h1>
+<h1 align="center">👩‍💻 Seja bem-vindo(a) </h1>
 
-<p 
+---
+
  - 💻 Desenvolvedora em constante aprendizado  
  - 🌱 Amante de tecnologia e boas práticas  
  - 💡 Explorando o mundo do código com curiosidade e criatividade
-</p>
+
 
 ---
  
