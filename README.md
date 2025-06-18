@@ -1,19 +1,22 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=bia-cunha&color=006bed" alt="Profile views"/>
 </a>
 
-<h1 align="center">
-        <samp>&gt; Olá, eu sou a 
-                <b><a target="_blank" href="https://alsiam.com">Bianca</a></b>
-        </samp>
-</h1>
+<h1 align="center">👩‍💻 Olá! Eu sou a Bianca Cunha </h1>
 
-<p align="center"> 
-  <samp>
-        「 Tecnóloga em Análise e Desenvolvimento de Sistemas 」
-    <br>
-    <br>
-  </samp>
+<p align="center">
+  💻 Desenvolvedora em constante aprendizado • 🌱 Amante de tecnologia e boas práticas • 💡 Explorando o mundo do código com curiosidade e criatividade
 </p>
+
+---
+
+### 🧠 Sobre mim
+
+- 🎓 Formada em **Análise e Desenvolvimento de Sistemas**, **Administração** e **Pós-graduada em RH**
+- 🎓 Também sou **Técnica em Informática, Contabilidade e Recursos Humanos**
+- 📍 Atualmente estudando **Java com Spring Boot** e **Banco de Dados MySQL**
+- 🤝 Buscando oportunidades para aplicar meus conhecimentos técnicos e de gestão em projetos reais
+
+---
  
 <p align="center">
 
