@@ -4,17 +4,10 @@
 <h1 align="center">👩‍💻 Olá! Eu sou a Bianca Cunha </h1>
 
 <p align="center">
-  💻 Desenvolvedora em constante aprendizado • 🌱 Amante de tecnologia e boas práticas • 💡 Explorando o mundo do código com curiosidade e criatividade
+ • 💻 Desenvolvedora em constante aprendizado  
+ • 🌱 Amante de tecnologia e boas práticas  
+ • 💡 Explorando o mundo do código com curiosidade e criatividade
 </p>
-
----
-
-### 🧠 Sobre mim
-
-- 🎓 Formada em **Análise e Desenvolvimento de Sistemas**, **Administração** e **Pós-graduada em RH**
-- 🎓 Também sou **Técnica em Informática, Contabilidade e Recursos Humanos**
-- 📍 Atualmente estudando **Java com Spring Boot** e **Banco de Dados MySQL**
-- 🤝 Buscando oportunidades para aplicar meus conhecimentos técnicos e de gestão em projetos reais
 
 ---
  
@@ -39,20 +32,15 @@
  <img height="520em" src="https://github.com/user-attachments/assets/f96bc931-5d93-4a2b-89f4-f7e938d9c20f" min-width="400px" max-width="400px" width="500px" align="center">
 </div>
 
+---
 
+### 🧠 Sobre mim
 
+- 🎓 Formada em **Análise e Desenvolvimento de Sistemas**, **Administração** e **Pós-graduada em RH**
+- 🎓 Também sou **Técnica em Informática, Contabilidade e Recursos Humanos**
+- 📍 Atualmente estudando **Java com Spring Boot** e **Banco de Dados MySQL**
+- 🤝 Buscando oportunidades para aplicar meus conhecimentos técnicos e de gestão em projetos reais
 
-
-## Sobre mim
-  
-:heavy_check_mark: 👩‍💻 Explorando novas tecnologias e desenvolvendo soluções de software.
-
-:heavy_check_mark: :man_student: Formanda **Análise e Desenvolvimento de Sistemas** na <a href="https://www.usjt.br/">USJT</a>
-
-:heavy_check_mark: 💼 Em busca da minha primeira vaga tech **Desenvolvedora Back-end Java Jr.** 
-
-:heavy_check_mark: :memo: Aprendendo mais sobre **Java, JS, HTML, CSS, Angular, Typescript e MySQL.**
-  <br></br>
 
 ## 🛠 &nbsp;Tech Stack
 
