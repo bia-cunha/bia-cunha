@@ -6,7 +6,8 @@
 ---
 
  - 💻 Desenvolvedora em constante aprendizado  
- - 🌱 Amante de tecnologia e boas práticas  
+ - 🌱 Amante de tecnologia e boas práticas
+ - 📚 Multi-formada e sempre aprendendo
  - 💡 Explorando o mundo do código com curiosidade e criatividade
 
 
