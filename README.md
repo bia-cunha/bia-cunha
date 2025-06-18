@@ -3,7 +3,7 @@
 
 <h1 align="center">👩‍💻 Olá! Eu sou a Bianca Cunha </h1>
 
-<p align="center">
+<p 
  - 💻 Desenvolvedora em constante aprendizado  
  - 🌱 Amante de tecnologia e boas práticas  
  - 💡 Explorando o mundo do código com curiosidade e criatividade
